@@ -1,0 +1,65 @@
+body{
+	background-color: coral; 
+	font: normal 16px arial
+	line-height: 1.6em;
+	margin: 0;
+	text-align: left;
+}
+h1{
+	text-align: center;
+	border-bottom: 2px blue solid
+}
+h2{
+	text-indent:75px;
+	margin: 0px;
+}
+h3{
+	text-indent:125px;
+	margin: 0px;
+}
+.box-1{
+	text-indent:50px;
+	width: 65%;
+	margin: auto;
+	margin-right: 85%:
+}
+.box-2{
+	text-indent:75px;
+	text-align: left
+	width: 45%;
+	margin: auto;
+}
+.box-3{
+	text-indent: 75px;
+	text-align: left
+	margin: auto;
+	margin-right: 60%
+
+}
+.box-4{
+	text-indent: 150px;
+	text-align: left
+	margin: auto;
+	margin-right: 60%;
+}
+.a{ 
+	text-align: center;
+}
+
+ul.a{
+	margin: 50px;
+	padding: 0px;
+	overflow: hidden;
+	background-color: gray;
+}	
+
+.a li{
+	display: inline;
+	padding: 10px;	
+}
+img.a{
+	float: left;
+	margin: 20px:
+}
+
+
